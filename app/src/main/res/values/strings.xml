@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Talento Mobile</string>
+
+    <string name="population">Population:</string>
+
+    <string name="search">Search any place</string>
+
+    <string name="cannot">Can not find the place</string>
+
+    <string name="grades">ºC</string>
+
+
+
+</resources>
